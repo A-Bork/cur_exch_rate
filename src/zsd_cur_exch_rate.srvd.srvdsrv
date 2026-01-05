@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service - Currency Exchange Rate'
+define service ZSD_CUR_EXCH_RATE {
+  expose ZCE_CUR_EXCH_RATE as currencyExchangeRates;
+}
